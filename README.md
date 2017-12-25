@@ -11,3 +11,5 @@ At the output of the Delon circuit is the constant current source with an NPN tr
 Depending on the transistor, the value may change slightly and depending on the LED used, the value can be adjusted via R2. 
 
 Both circuits are described in every good electronics manual, so there is no magic at all!
+
+![The Schema](Schema.png)
